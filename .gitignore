@@ -30,7 +30,7 @@
 *.exe
 *.out
 *.app
-Chapter9/3/placement_new
+Chapter09/3/placement_new
 Chapter14/1/main
 Chapter14/1/winec
 Chapter16/2/palindrome
